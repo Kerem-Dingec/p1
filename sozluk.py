@@ -13,3 +13,4 @@ if word in list.keys():
    print (list[word])
 else:
     print ("böyle bir kelime bilinmiyor")
+#güzel bir kod
